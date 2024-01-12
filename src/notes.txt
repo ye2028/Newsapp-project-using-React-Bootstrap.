@@ -1,0 +1,7 @@
+what are lifecycle components
+
+mounting - birth of your component
+update - growth of component
+unmounting - death of component
+
+

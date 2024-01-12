@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Clare Foran, Haley Talbot",
+      "title": "Jordan's speaker bid on the brink amid steep GOP opposition - CNN",
+      "description": "Rep. Jim Jordan’s speaker bid is in peril as the Ohio Republican confronts steep opposition from members of his own party, raising serious questions over whether he can flip enough holdouts to win the gavel.",
+      "url": "https://www.cnn.com/2023/10/18/politics/jim-jordan-speaker-bid/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231017173957-10-house-speaker-race-101723.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-18T12:09:00Z",
+      "content": "Rep. Jim Jordans speaker bid is in peril as the Ohio Republican confronts steep opposition from members of his own party, raising serious questions over whether he can flip enough holdouts to win the… [+2475 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "NAJIB JOBAIN, ISABEL DEBRE, Ravi Nessman, MATTHEW LEE",
+      "title": "Gaza's doctors struggle to save hospital blast survivors as Middle East rage grows - The Associated Press",
+      "description": "Doctors in Gaza City have performed surgery on hospital floors often without anesthesia in a desperate bid to save badly wounded victims of a massive blast that killed civilians sheltering in a nearby hospital. The Hamas militant group blamed the blast Tuesda…",
+      "url": "https://apnews.com/article/israel-palestinians-gaza-hamas-war-biden-hospital-d9606e0ead1f8c4e9fd00b602ed14a38",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f909a85/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2Fa2%2F2ce6fe316a946a0fad125e8e00bc%2F3b96b6f116ec4fd596a0d2b35733fa8b",
+      "publishedAt": "2023-10-18T12:05:00Z",
+      "content": "KHAN YOUNIS, Gaza Strip (AP) Doctors in Gaza City faced with dwindling medical supplies performed surgery on hospital floors, often without anesthesia, in a desperate bid to save badly wounded victim… [+8365 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Hugh Son",
+      "title": "Morgan Stanley beats estimates on trading, but shares dip as wealth management disappoints - CNBC",
+      "description": "Morgan Stanley has managed to avoid the turbulence afflicting some of its rivals.",
+      "url": "https://www.cnbc.com/2023/10/18/morgan-stanley-ms-earnings-3q-2023.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107067836-16535928912022-05-26t191907z_565636100_rc26fu90vqsg_rtrmadp_0_morganstanley-agm.jpeg?v=1697632575&w=1920&h=1080",
+      "publishedAt": "2023-10-18T11:05:21Z",
+      "content": "Morgan Stanley posted third-quarter results Wednesday that topped profit estimates on better-than-expected trading revenue.\r\nHere's what the company reported:\r\n<ul><li>Earnings per share: $1.38, vs. … [+2949 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Why Hochul went to Israel - POLITICO - POLITICO",
+      "description": null,
+      "url": "https://www.politico.com/newsletters/new-york-playbook/2023/10/18/why-hochul-went-to-israel-00122167",
+      "urlToImage": "https://static.politico.com/36/41/605c8317444a89a8149900824d09/52949821912-d58bb6806b-o.jpg",
+      "publishedAt": "2023-10-18T11:04:03Z",
+      "content": "With help from Jason Beeferman\r\nGov. Kathy Hochul marches in the Israel Day Parade in New York City in June. The governor will be in Israel until Friday. | Darren McGee/ Office of Gov. Kathy Hochul\r\n… [+13951 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Wesley Yin-Poole",
+      "title": "Elon Musk's Twitter / X Testing Charging New Accounts $1 Annual Fee to Combat Spammers and Bots - IGN",
+      "description": "X, formerly known as Twitter, has launched a program in limited territories that charges $1 for new signups.",
+      "url": "https://www.ign.com/articles/elon-musks-twitter-x-testing-charging-new-accounts-1-annual-fee-to-combat-spammers-and-bots",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/10/18/musk-1697626129204.jpg?width=1280",
+      "publishedAt": "2023-10-18T10:56:14Z",
+      "content": "X, formerly known as Twitter, has launched a programme in limited territories that charges $1 for new signups.\r\nThe Not A Bot programme, first reported by Fortune, is live now in New Zealand and the … [+3352 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Clare Jim, Yu Xie",
+      "title": "Country Garden default talk swirls as offshore debt deadline passes - Reuters",
+      "description": "A Country Garden <a href=\"https://www.reuters.com/markets/companies/2007.HK\" target=\"_blank\">(2007.HK)</a> $15 million coupon payment deadline has expired without word of payment, fuelling expectations that China's biggest private property developer has defau…",
+      "url": "https://www.reuters.com/markets/asia/chinas-country-garden-offshore-debt-default-looms-2023-10-18/",
+      "urlToImage": "https://www.reuters.com/resizer/cfwpM45A6xDHWpMNUy_otcRjQes=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GYBFAL4BQZIJFLFXMUD6WF3U4E.jpg",
+      "publishedAt": "2023-10-18T10:42:00Z",
+      "content": "HONG KONG, Oct 18 (Reuters) - A Country Garden (2007.HK) $15 million coupon payment deadline has expired without word of payment, fuelling expectations that China's biggest private property developer… [+4908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Vladimir Putin feted at Xi Jinping's global Belt and Road summit - BBC.com",
+      "description": "Russia and China's leaders took centre stage at a forum attended by leaders from the Global South.",
+      "url": "https://www.bbc.com/news/world-asia-china-67143322",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150C8/production/_131461268_gettyimages-1729825016-1.jpg",
+      "publishedAt": "2023-10-18T10:38:22Z",
+      "content": "Russian leader Vladimir Putin was given the red carpet treatment at a global summit in Beijing, as China and Russia deepen their solidarity.\r\nHosted by China's President Xi Jinping, the meeting celeb… [+3715 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Paul Sawers",
+      "title": "OpenAI formally brings web search to ChatGPT as DALL-E 3 integration arrives in beta - TechCrunch",
+      "description": "OpenAI has officially launched Bing-powered search for ChatGPT users, as its text-to-image generator DALL-E 3 exits beta.",
+      "url": "https://techcrunch.com/2023/10/18/openai-formally-brings-bing-powered-search-to-chatgpt-as-dall-e-3-arrives-in-beta/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1647521480-e1694685235777.jpg?resize=1200,676",
+      "publishedAt": "2023-10-18T10:33:01Z",
+      "content": "OpenAI has formally launched its internet-browsing feature to ChatGPT, some three weeks after re-introducing the feature in beta after several months in hiatus.\r\nChatGPT, the generative AI chatbot th… [+2977 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Intel's 300W Core i9-14900K: CPU Review, Benchmarks, Gaming, & Power - Gamers Nexus",
+      "description": "Sponsor: Lian Li O11 Dynamic Evo XL on Newegg https://geni.us/FAIwThis review tests the new Intel Core i9-14900K CPU and benchmarks the Raptor Lake Refresh p...",
+      "url": "https://www.youtube.com/watch?v=2MvvCr-thM8",
+      "urlToImage": "https://i.ytimg.com/vi/2MvvCr-thM8/maxresdefault.jpg",
+      "publishedAt": "2023-10-18T10:21:44Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "David Jackson",
+      "title": "Donald Trump has found a new place for his 2024 campaign: The courthouse - USA TODAY",
+      "description": "Facing up to four criminal trials in 2024, Trump has served notice that he is willing to bring his campaign to courthouse in four cities.",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2023/10/18/donald-trump-2024-campaign-courthouse/71203052007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/17/USAT/71217940007-afp-afp-33-yj-9-xq.jpg?crop=3196,1798,x0,y80&width=3196&height=1798&format=pjpg&auto=webp",
+      "publishedAt": "2023-10-18T09:23:29Z",
+      "content": "WASHINGTON Former President Donald Trump is steadily preparing to campaign for the White House in 2024 from the most unique set of venues in U.S. political history: courthouses.\r\nTrump addressed repo… [+5645 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X",
+      "title": "Superlensing without a super lens - Phys.org",
+      "description": "Ever since Antonie van Leeuwenhoek discovered the world of bacteria through a microscope in the late seventeenth century, humans have tried to look deeper into the world of the infinitesimally small.",
+      "url": "https://phys.org/news/2023-10-superlensing-super-lens-physicists-boost.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/superlensing-without-a.jpg",
+      "publishedAt": "2023-10-18T09:00:01Z",
+      "content": "Ever since Antonie van Leeuwenhoek discovered the world of bacteria through a microscope in the late seventeenth century, humans have tried to look deeper into the world of the infinitesimally small.… [+4260 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Britney Spears says she had abortion when dating Justin Timberlake - BBC.com",
+      "description": "The pop star was in her late teens and dating Justin Timberlake at the time, according to memoir extracts.",
+      "url": "https://www.bbc.com/news/world-us-canada-67136898",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80EE/production/_131460033_mediaitem131460031.jpg",
+      "publishedAt": "2023-10-18T07:32:46Z",
+      "content": "Britney Spears had an abortion after getting pregnant with Justin Timberlake, according to excerpts from her upcoming memoir. \r\nThe pop star's new book, The Woman in Me, focuses in part on her 13-yea… [+3178 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Kanishka Singh, Andrew Hay",
+      "title": "Prosecutors to recharge Alec Baldwin for 'Rust' shooting - Reuters",
+      "description": "New Mexico prosecutors on Tuesday said they intended to recharge actor Alec Baldwin with involuntary manslaughter for the fatal shooting of \"Rust\" cinematographer Halyna Hutchins in 2021.",
+      "url": "https://www.reuters.com/world/us/prosecutors-aim-recharge-alec-baldwin-with-involuntary-manslaughter-nbc-news-2023-10-17/",
+      "urlToImage": "https://www.reuters.com/resizer/LJhY_x4F0b4BMsHNdvdHruY1wEc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQCLIKJMY5L2VLRIGMRZG52TRQ.jpg",
+      "publishedAt": "2023-10-18T06:26:00Z",
+      "content": "Oct 17 (Reuters) - New Mexico prosecutors on Tuesday said they intended to recharge actor Alec Baldwin with involuntary manslaughter for the fatal shooting of \"Rust\" cinematographer Halyna Hutchins i… [+2692 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Protests Spread Across Middle East After Gaza Hospital Blast | WSJ News - WSJ News",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Jnw__aFGlK0",
+      "urlToImage": null,
+      "publishedAt": "2023-10-18T06:19:43Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": null, "name": "Post Magazine" },
+      "author": null,
+      "title": "As it happened: Xi Jinping unveiled new action plan for Belt and Road Initiative, Vladimir Putin gave first international address since Ukraine war - South China Morning Post",
+      "description": "Xi announced an eight-point vision for the infrastructure scheme, including funding and green development pledges.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3238307/xi-jinping-deliver-keynote-speech-chinas-belt-and-road-forum",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_live/public/d8/images/canvas/2023/10/18/0e8128aa-aa30-4660-bc02-bbd0cb6838d4_10f244b0.jpg?itok=KcUSCioe&v=1697596008",
+      "publishedAt": "2023-10-18T06:17:03Z",
+      "content": "This blog has been made freely available as a public service to our readers. Please consider supporting SCMPs journalism bysubscribing.\r\nChinese President Xi Jinpings address at Wednesdays opening ce… [+610 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Sorting out NFL contenders and pretenders: Playoff picture entering Week 7 includes legit teams and frauds - CBS Sports",
+      "description": "Who's for real and who's not among teams currently in the NFL playoff picture",
+      "url": "https://www.cbssports.com/nfl/news/sorting-out-nfl-contenders-and-pretenders-playoff-picture-entering-week-7-includes-legit-teams-and-frauds/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/17/22883cf3-e0d7-41ca-89c5-217428cad334/thumbnail/1200x675/808d1e8c322b7492d3f8dd000f4db247/ljax.jpg",
+      "publishedAt": "2023-10-18T05:28:00Z",
+      "content": "We are one-third of the way through the 2023 NFL season. Can you believe it? Through six weeks, we've seen surprises, disappointments, upsets and dominant performances. It's still relatively early, b… [+10827 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "David Schoenfield",
+      "title": "Kyle Schwarber ties Reggie Jackson mark as Phillies take 2-0 NLCS lead - ESPN - ESPN",
+      "description": "Kyle Schwarber matched Reggie Jackson for the most postseason homers by a left-handed batter as the Phillies routed the Diamondbacks on Tuesday night to move two wins away from returning to the World Series.",
+      "url": "https://www.espn.com/mlb/story/_/id/38684466/kyle-schwarber-ties-reggie-jackson-mark-phillies-take-2-0-nlcs-lead",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1018%2Fr1239858_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-10-18T05:12:06Z",
+      "content": "PHILADELPHIA -- In Philadelphia, everyone refers to this month as Red October.\r\nThe exact definition is a little hazy, but let's settle on this one: It means home runs -- lots of home runs. Lots of l… [+4928 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Ariana Madix’s Disney100 Night Contemporary – Dancing with the Stars - Dancing With The Stars",
+      "description": "Ariana Madix & Pasha dance Contemporary to “Into the Unknown” from “Frozen II” on Dancing with the Stars!Dancing with the Stars is LIVE, Tuesdays at 8/7c on ...",
+      "url": "https://www.youtube.com/watch?v=0-T4stXxboc",
+      "urlToImage": "https://i.ytimg.com/vi/0-T4stXxboc/maxresdefault.jpg",
+      "publishedAt": "2023-10-18T05:02:33Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Katie Kilkenny",
+      "title": "George Clooney Meets With SAG-AFTRA Leadership About State of Negotiations - Hollywood Reporter",
+      "description": "The meeting between the star and other A-list talent with union president Fran Drescher and national executive director Duncan Crabtree-Ireland occurred on Tuesday.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/george-clooney-sag-aftra-leadership-state-of-negotiations-1235621377/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Clooney.jpeg?w=1024",
+      "publishedAt": "2023-10-18T04:56:58Z",
+      "content": "SAG-AFTRA A-lister George Clooney met with his union’s leaders on Tuesday in a bid to further understand how contract negotiations broke down on Oct. 11. \r\nClooney spoke with union national executive… [+3303 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Fox News",
+      "title": "Joran van der Sloot to reveal details of Natalee Holloway's death: lawyer - New York Post ",
+      "description": "Joran van der Sloot, the prime suspect in the disappearance of Natalee Holloway, is expected to take a plea deal after being charged in an extortion plot involving the Holloway family.",
+      "url": "https://nypost.com/2023/10/18/joran-van-der-sloot-to-reveal-details-of-natalee-holloways-death-lawyer/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-vsdnhn4n5-1697602515187.jpg?quality=75&strip=all&1697588165&w=1024",
+      "publishedAt": "2023-10-18T04:28:00Z",
+      "content": "Joran van der Sloot, the prime suspect in the disappearance of Natalee Holloway, is expected to take a plea deal after being charged in an extortion plot involving the Holloway family.\r\nNatalee Hollo… [+3116 chars]"
+    }
+  ]
+}
